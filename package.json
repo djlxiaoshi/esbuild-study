@@ -1,0 +1,26 @@
+{
+  "name": "esbuild-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "esbuild": "^0.13.14",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djlxiaoshi/esbuild-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djlxiaoshi/esbuild-study/issues"
+  },
+  "homepage": "https://github.com/djlxiaoshi/esbuild-study#readme"
+}
